@@ -1,0 +1,46 @@
+@media screen and (max-width:576px){
+nav{
+    flex-direction: column;
+}
+
+.c{
+    flex-direction: column;
+}
+.c a{
+    margin-bottom: 10px;
+    margin-right: 0px;
+}
+.d{
+    margin-top: 10px;
+}
+.aa{
+    flex-direction: column-reverse;
+}
+.uu{
+    margin-left: 140px;
+}
+.aaa{
+    flex-direction: column;
+    margin-left: 90px;
+}
+.bb{
+    flex-direction: column;
+}
+.dd{
+    margin-left: 80px;
+}
+.dd > img{
+    width: 320px;
+}
+.img-con{
+    position: relative;
+    bottom: 150px;
+    right: 70px;
+   }
+.img-con img{
+    width: 150px;
+}
+
+
+
+}
