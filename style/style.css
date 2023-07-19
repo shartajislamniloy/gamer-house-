@@ -100,4 +100,104 @@ margin-left: 0px;
 
 }
 
+@media screen and (min-width:577px) and (max-width:992px){
+    nav{
+        flex-direction: column;
+    }
+    
+    .c{
+        flex-direction: column;
+    }
+    .c a{
+        margin-bottom: 10px;
+        margin-right: 0px;
+    }
+    .d{
+        margin-top: 10px;
+    }
+    .aa{
+        flex-direction: column-reverse;
+    }
+    .uu{
+        margin-left: 140px;
+    }
+    .aaa{
+        flex-direction: column;
+        margin-left: 90px;
+    }
+    .bb{
+        flex-direction: column;
+    }
+    .dd{
+        margin-left: 80px;
+    }
+    .dd > img{
+        width: 320px;
+    }
+    .img-con{
+        position: relative;
+        bottom: 150px;
+        right: 70px;
+       }
+    .img-con img{
+        width: 150px;
+    }
+    .pp{
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .logo{
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .qq{
+        grid-template-columns: repeat(6, 1fr);
+    }
+    .n{
+        margin-left: 80px;
+    }
+    .logo{
+        margin-left: 80px;
+    }
+    .pp{
+        margin-left: 0px;
+    }
+    .rem{
+        flex-direction: column;
+        justify-content: unset;
+        
+    }
+    .ss img{
+    width: 400px;
+    margin-left: 0px;
+    }
+    .sss h1{
+    margin-left: 0px;
+    
+    
+    }
+    .sss p{
+        margin-left: 0px;
+    }
+    .sss button{
+        margin-left: 0px;
+       
+    }
+    .sss h4{
+        margin-left: 0px;
+        
+    }
+    .sss h3{
+        margin-left: 0px;
+    }
+    .sss{
+        margin-right: 250px;
+       
+    }
+    .a1{
+        grid-template-columns: repeat(5, 1fr);
+    }
+    .a11{
+        grid-template-columns: repeat(4, 1fr);
+        margin-left: 20px;
+    }
+}
 
