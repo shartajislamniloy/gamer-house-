@@ -40,9 +40,56 @@ nav{
 .img-con img{
     width: 150px;
 }
-.qq1{
+.pp{
+    grid-template-columns: repeat(2, 1fr);
+}
+.logo{
+    grid-template-columns: repeat(2, 1fr);
+}
+.qq{
+    grid-template-columns: repeat(3, 1fr);
+}
+.n{
+    margin-left: 80px;
+}
+.logo{
+    margin-left: 80px;
+}
+.pp{
+    margin-left: 0px;
+}
+.rem{
+    flex-direction: column;
+    justify-content: unset;
     
 }
+.ss img{
+width: 400px;
+margin-left: 0px;
+}
+.sss h1{
+margin-left: 0px;
 
 
 }
+.sss p{
+    margin-left: 0px;
+}
+.sss button{
+    margin-left: 0px;
+   
+}
+.sss h4{
+    margin-left: 0px;
+    
+}
+.sss h3{
+    margin-left: 0px;
+}
+.sss{
+    margin-right: 250px;
+   
+}
+
+}
+
